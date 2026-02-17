@@ -34,4 +34,4 @@ This project is a flexible, high-performance service designed to handle complex 
 - Libraries: Librosa (Audio analysis), SoundFile, Pydantic (Data validation).
 
 ## Project Screenshots
-(Тут ти можеш завантажити скріншот свого Gradio інтерфейсу)
+![Interface Screenshot](Screenshot_TTS_main.png)
