@@ -30,5 +30,5 @@ This project is a specialized monitoring system designed to track financial mark
 
 - Tools: Jupyter Notebook (prototyping)
 
-Project Screenshots
-(Сюди ідеально підійде скріншот із телефону або десктопу, де видно повідомлення від твого Telegram-бота з новиною та оцінкою)
+## Project Screenshots
+![Interface Screenshot](Screenshot_SentimentWire.png)
